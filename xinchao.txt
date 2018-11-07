@@ -1,15 +1,5 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> a51b24b9ecaba31de656e09abcdbf691a7eabff0
 hello task2
 them noi dung cho xinchao.txt
 chinh noi dung tren github
 conflict - da chinh sua noi dung lan 1 tren folder git 
 task2
-<<<<<<< HEAD
-
-chinh sua noi dung tren may tinh ca nhan.
-=======
-hello
->>>>>>> a51b24b9ecaba31de656e09abcdbf691a7eabff0

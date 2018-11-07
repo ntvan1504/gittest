@@ -1,1 +1,2 @@
 task2 task1 master
+chinh sua tu may tinh ca nhan

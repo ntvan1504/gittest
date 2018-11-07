@@ -5,4 +5,4 @@ chinh noi dung tren github
 conflict - da chinh sua noi dung lan 1 tren folder git 
 task2
 
-chinh sua noi dung tren may tinh ca nhan
+chinh sua noi dung tren may tinh ca nhan.

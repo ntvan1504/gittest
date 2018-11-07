@@ -1,7 +1,7 @@
-hello task1
+hello task2
 
 them noi dung cho xinchao.txt
 chinh noi dung tren github
 conflict - da chinh sua noi dung lan 1 tren folder git 
-task1
+task2
 

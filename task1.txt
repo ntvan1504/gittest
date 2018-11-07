@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-task2
-=======
-task1
-van la task1
->>>>>>> master
+task2 task1 master
